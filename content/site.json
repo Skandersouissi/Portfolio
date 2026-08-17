@@ -1,0 +1,21 @@
+{
+  "wordmark": "Studio",
+  "studioName": "Studio",
+  "tagline": [
+    "3D Design",
+    "Digital Art",
+    "Visual Development"
+  ],
+  "about": "A short bio about yourself and your practice.",
+  "email": "hello@example.com",
+  "links": [
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com"
+    },
+    {
+      "label": "Are.na",
+      "url": "https://are.na"
+    }
+  ]
+}
