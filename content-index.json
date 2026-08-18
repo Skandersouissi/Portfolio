@@ -1,3 +1,11 @@
 {
-  "categories": []
+  "categories": [
+    {
+      "slug": "projects",
+      "name": "Projects",
+      "projects": [
+        "the-gauntlet"
+      ]
+    }
+  ]
 }
