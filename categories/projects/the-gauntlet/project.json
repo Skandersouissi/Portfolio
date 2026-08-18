@@ -1,0 +1,89 @@
+{
+  "title": "The Gauntlet",
+  "category": "Projects",
+  "date": "2026-04-07",
+  "createdBy": {
+    "type": "self"
+  },
+  "collaboration": null,
+  "tools": [
+    "Blender",
+    "Clip Studio Paint",
+    "ZBrush",
+    "Adobe Substance Painter"
+  ],
+  "description": "The Gauntlet is an animated pilot episode that falls within the curfew of horror and sci-fi which introduces 4 protagonists in the midst of a dangerous environment against a horde of underground creatures.",
+  "cover": "cab806be-6514-4f4c-91a1-6ac874b59d2a_rw_1200.png",
+  "media": [
+    {
+      "type": "image",
+      "src": "cab806be-6514-4f4c-91a1-6ac874b59d2a_rw_1200.png"
+    },
+    {
+      "type": "image",
+      "src": "e5c3b2bd-86ae-4075-b68a-11b248c6bc30_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "a7e6deca-193a-4f22-b092-1d91f5fa8225_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "5ecffec9-ba16-4dbb-aa05-d27f29b070e6_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "690d920d-0ca2-4c2e-a64d-67147257f15c_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "33c9ffcd-1a9d-40d3-8629-cd1e36f67224_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "8ec72704-12b9-4ba8-af4b-8781966657ef_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "4826d4bc-c13c-4bd8-a77f-f6381a0d8870_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "8095c77a-4515-4c3d-bdde-a54ffc3afef6_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "2d6622f4-c6be-41d0-81a7-6f8e52e8b3fa_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "ca93f460-c9af-4a4d-a578-7a6f2a5daaf7_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "5328ed91-feba-4c77-912b-d1073ecb3919_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "7bf437ba-3428-497f-a927-372ebb24b0a5_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "a83efc19-0c72-41f9-a92b-9dc7911fc3e9_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "c25019b8-3f2e-4ca1-97af-1f4317d1b9ad_rw_600.png"
+    },
+    {
+      "type": "image",
+      "src": "44d761f4-bc1c-484a-bf98-12fafc42edd2_rw_1920.png"
+    },
+    {
+      "type": "video",
+      "src": "Final10001-8870.mp4",
+      "alt": "Animatic"
+    }
+  ],
+  "featured": false
+}
