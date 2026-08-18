@@ -1,21 +1,21 @@
 {
-  "wordmark": "Studio",
-  "studioName": "Studio",
+  "wordmark": "Skander Souissi",
+  "studioName": "Skander Souissi's Portfolio",
   "tagline": [
-    "3D Design",
-    "Digital Art",
-    "Visual Development"
+    "2D/3D Artist",
+    "Concept Artist",
+    "Storyboarder"
   ],
-  "about": "A short bio about yourself and your practice.",
-  "email": "hello@example.com",
+  "about": "I am a concept artist, character artist and Environment illustrator with 4 Years of industry experience. Co-Founder of an Indie Game Dev Studio; Miracle doors Studio. Experienced in Character creation, Concept art, environment illustration, storyboarding and animatics for narrative-driven Audiovisual projects. Strong Drawing and Illustration skills with a good foundation of anatomy, composition and visual clarity. Experienced in Hybrid 3D/2D Works by mixing the two to form distinctive pieces for the art direction.",
+  "email": "skandersouissi1@outlook.com",
   "links": [
     {
       "label": "Instagram",
       "url": "https://instagram.com"
     },
     {
-      "label": "Are.na",
-      "url": "https://are.na"
+      "label": "Artstation",
+      "url": "https://www.artstation.com/skandersouissi6"
     }
   ]
 }
