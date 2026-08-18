@@ -12,6 +12,12 @@
     "ZBrush",
     "Adobe Substance Painter"
   ],
+  "links": [
+    {
+      "label": "Gauntlet Animatic",
+      "url": "https://youtu.be/yZU-ASyLeHM"
+    }
+  ],
   "description": "The Gauntlet is an animated pilot episode that falls within the curfew of horror and sci-fi which introduces 4 protagonists in the midst of a dangerous environment against a horde of underground creatures.",
   "cover": "cab806be-6514-4f4c-91a1-6ac874b59d2a_rw_1200.png",
   "media": [
@@ -81,8 +87,7 @@
     },
     {
       "type": "video",
-      "src": "Final10001-8870.mp4",
-      "alt": "Animatic"
+      "youtube": "https://youtu.be/LztZFn0Et64"
     }
   ],
   "featured": false
