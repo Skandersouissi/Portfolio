@@ -1,0 +1,68 @@
+{
+  "title": "Beaten",
+  "category": "Projects",
+  "date": "2025-02-19",
+  "createdBy": {
+    "type": "self"
+  },
+  "collaboration": null,
+  "tools": [
+    "Blender",
+    "Adobe After Effects",
+    "Maya",
+    "Clip Studio Paint"
+  ],
+  "description": "Beaten is a short film that follows the theme of faith and specifically addresses the subject of faith in oneself. The short film was produced under constraints that must be respected:\nHave at least one 3D character with a full rig in a background that can be 3D or 2D.\nThe short film must have a maximum duration of 5 minutes.\n\nSynopsis:\nOliver Todd or as the characters call him Slugger, is an underground boxer who was given the opportunity to enter the professional world of a galactic arena but at the cost of losing his entire planet if he loses. Being placed in a high risk, high reward situation, Slugger was hesitant but if he wanted to change his life forever, he had to take on this difficult challenge.",
+  "cover": "29e2b085-678d-4de2-aa17-e89701c107c3_rw_1920.png",
+  "media": [
+    {
+      "type": "image",
+      "src": "29e2b085-678d-4de2-aa17-e89701c107c3_rw_1920.png",
+      "caption": "Poster"
+    },
+    {
+      "type": "image",
+      "src": "b359bd07-5e2d-4b0a-8728-fe05f8c88bb9_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "0b4ad34c-1543-45bb-aa51-4d38e3f4b5a7_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "4d6fabef-033e-43a5-a78c-591b2fcd4bf8_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "ac3a1b5b-4d8c-4a29-b556-c7ec042c4d92_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "a301422a-c1a9-4856-912b-fccf0ddf3c97_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "83488117-48b1-4991-b49a-ef3aafb75268_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "8355d6c7-f874-488c-8b28-40b3b26f5fe9_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "84ae7627-2cd9-4646-a979-5c8e0d231885_rw_1920.png"
+    },
+    {
+      "type": "image",
+      "src": "e8f5fa7a-68f3-4848-a68b-e56aa839e019_rw_1920.png"
+    },
+    {
+      "type": "video",
+      "caption": "Beaten Animatic"
+    },
+    {
+      "type": "video"
+    }
+  ],
+  "featured": false
+}
