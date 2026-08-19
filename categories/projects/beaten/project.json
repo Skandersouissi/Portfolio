@@ -58,10 +58,11 @@
     },
     {
       "type": "video",
-      "caption": "Beaten Animatic"
+      "youtube": "https://youtu.be/DrE5WmiwUgk"
     },
     {
-      "type": "video"
+      "type": "video",
+      "youtube": "https://youtu.be/Hrd8bQp19nY"
     }
   ],
   "featured": false
